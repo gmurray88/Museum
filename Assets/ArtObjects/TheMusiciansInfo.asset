@@ -15,4 +15,6 @@ MonoBehaviour:
   image: {fileID: 2800000, guid: 33248c270e3c422469f746d2146761b4, type: 3}
   title: The Musicians
   artist: Caravaggio
+  orig_height: 36.2
+  orig_width: 46.6
   description: Metropolitan Museum of Art, New York City

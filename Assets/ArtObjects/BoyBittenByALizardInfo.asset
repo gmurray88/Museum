@@ -15,4 +15,6 @@ MonoBehaviour:
   image: {fileID: 2800000, guid: abda7d6f4f1d2ac4ba4aa7b0ea003434, type: 3}
   title: Boy Bitten By A Lizard
   artist: Caravaggio
+  orig_height: 24.4
+  orig_width: 20.4
   description: National Gallery, London

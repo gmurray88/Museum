@@ -15,4 +15,6 @@ MonoBehaviour:
   image: {fileID: 2800000, guid: ae75ee47f2cc51b42bbaae2742905f4d, type: 3}
   title: Bacchus
   artist: Caravaggio
+  orig_height: 37.4
+  orig_width: 33.4
   description: Uffizi Gallery, Florence

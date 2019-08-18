@@ -15,4 +15,6 @@ MonoBehaviour:
   image: {fileID: 2800000, guid: 15caccf7552802b4e8464615bf9afcd0, type: 3}
   title: The Lute Player
   artist: Caravaggio
+  orig_height: 37
+  orig_width: 46.8
   description: Metropolitan Museum of Art, New York City

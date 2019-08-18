@@ -15,4 +15,6 @@ MonoBehaviour:
   image: {fileID: 2800000, guid: e0d3638a4049c6541aa31b9801958dce, type: 3}
   title: The Fortune Teller
   artist: Caravaggio
+  orig_height: 38.9
+  orig_width: 51.5
   description: Capitoline Museums, Rome

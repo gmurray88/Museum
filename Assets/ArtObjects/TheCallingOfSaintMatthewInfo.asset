@@ -15,4 +15,6 @@ MonoBehaviour:
   image: {fileID: 2800000, guid: 80959041869d3374bbf892abd80739d0, type: 3}
   title: The Calling of Saint Matthew
   artist: Caravaggio
-  description: Chucrch of St. Louis of the French, Rome
+  orig_height: 133
+  orig_width: 128
+  description: Church of St. Louis of the French, Rome
